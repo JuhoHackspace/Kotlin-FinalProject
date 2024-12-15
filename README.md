@@ -1,4 +1,4 @@
-# Kotlin-FinalProject
+# Final Project Movie Search
 Final project for the course Mobile Programming With Native Technologies
 
 ## Project overview
